@@ -1,2 +1,2 @@
-# linux-keylogger
-basically what you read
+# Linux Keylogger
+Educational input handling in Linux.
